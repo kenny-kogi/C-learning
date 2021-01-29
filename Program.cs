@@ -6,7 +6,7 @@ namespace C_learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Lets build your first app");
         }
     }
-}
+} 
