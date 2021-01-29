@@ -1,0 +1,16 @@
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.exe
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.deps.json
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.runtimeconfig.json
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.runtimeconfig.dev.json
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.dll
+D:\C#\C-learning\bin\Debug\net5.0\ref\C-learning.dll
+D:\C#\C-learning\bin\Debug\net5.0\C-learning.pdb
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.csprojAssemblyReference.cache
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.AssemblyInfoInputs.cache
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.AssemblyInfo.cs
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.csproj.CoreCompileInputs.cache
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.dll
+D:\C#\C-learning\obj\Debug\net5.0\ref\C-learning.dll
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.pdb
+D:\C#\C-learning\obj\Debug\net5.0\C-learning.genruntimeconfig.cache
